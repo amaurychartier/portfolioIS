@@ -1,27 +1,42 @@
+# 📈 European Option Pricer — Black-Scholes  
+_Un projet académique & professionnel orienté finance quantitative_
 
-# Portfolio Tracker en Temps Réel
+Ce dépôt présente un **pricer d’options européennes** basé sur le modèle **Black-Scholes**, développé en Python.  
+L’objectif est de fournir un outil simple, clair et robuste pour illustrer mes compétences en :
 
-Ce projet calcule la performance d'un portefeuille à partir d'un fichier CSV :
-
-- Récupère les prix actuels via Yahoo Finance.
-- Convertit toutes les devises en CHF avec des taux en temps réel.
-- Génère des graphiques interactifs (ROI par actif, répartition par secteur).
-
----
-
-## Démo
-
-[Voir le graphique ROI interactif](data/output/roi_per_asset.html)
+- Mathématiques financières  
+- Modélisation quantitative  
+- Implémentation Python  
+- Visualisation et analyse financière  
 
 ---
 
-## Installation
+# 🚀 Démo interactive (exécutable en 1 clic)
 
-```bash
-git clone https://github.com/amaurychartier/portfolioIS.git
-cd portfolioIS
-pip install -r requirements.txt
+Vous pouvez lancer le script directement dans votre navigateur **sans rien installer** :
 
+👉 **[Lancer sur Binder](https://mybinder.org/v2/gh/amaurychartier/portfolioIS)**  
 
+Binder ouvre un environnement Jupyter où vous pouvez :  
+✔️ modifier les paramètres  
+✔️ exécuter le pricing  
+✔️ visualiser les résultats  
 
+---
 
+# 🎥 Aperçu du projet
+
+*(Ajoute ici une image ou un GIF enregistré depuis ton écran — exemple pour toi)*  
+
+![demo](images/demo.gif)
+
+Si tu veux, je peux te générer un GIF automatiquement si tu m’envoies une capture.
+
+---
+
+# 🧮 Fonctionnalités
+
+- Pricing analytique d’options européennes (call & put)
+- Formules Black-Scholes complètes
+- Gestion du taux sans risque, de la volatilité et du temps à maturité
+- Visualisations des variations du prix en foncti
