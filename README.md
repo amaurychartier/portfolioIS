@@ -7,11 +7,12 @@ Ce projet calcule la performance d'un portefeuille à partir d'un fichier CSV :
 - Génère des **graphiques interactifs** (ROI par actif, répartition par secteur).
 
 ## Démo
-Voir le graphique ROI interactif
+!Voir la démo
 
 ## Installation
 ```bash
 git clone https://github.com/<ton-username>/portfolioIS.git
 cd portfolioIS
 pip install -r requirements.txt
+
 
