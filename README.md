@@ -13,6 +13,6 @@ Voici ce que fait PortfolioIS :
 - Conversion des devises en **CHF** automatiquement  
 - Visualisations interactives :  
   - Allocation par secteur  
-  - ROI (Retour sur investissement) par actif  
-
-
+  - ROI (Retour sur investissement) par actif
+ 
+https://github.com/amaurychartier/portfolioIS/blob/main/Capture%20d’écran%202025-11-25%20à%2014.59.59.png
