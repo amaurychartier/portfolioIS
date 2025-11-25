@@ -4,7 +4,7 @@ Bienvenue dans **PortfolioIS**, un outil open-source que j’ai développé pour
 
 ---
 
-## 🚀 Aperçu & Démo
+## Aperçu & Démo
 
 Voici ce que fait PortfolioIS :
 
@@ -17,9 +17,7 @@ Voici ce que fait PortfolioIS :
 
 Si vous voulez tester le projet sans l’installer :
 
-👉 **[Ouvrir une version interactive (Binder / Streamlit)](https://mybinder.org/v2/gh/amaurychartier/portfolioIS/HEAD)**  
 
----
 
 ## 🧪 Installation & Utilisation Locale
 
@@ -27,3 +25,4 @@ Si vous voulez tester le projet sans l’installer :
    ```bash
    git clone https://github.com/amaurychartier/portfolioIS.git
    cd portfolioIS
+
