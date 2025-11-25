@@ -15,14 +15,4 @@ Voici ce que fait PortfolioIS :
   - Allocation par secteur  
   - ROI (Retour sur investissement) par actif  
 
-Si vous voulez tester le projet sans l’installer :
-
-
-
-## 🧪 Installation & Utilisation Locale
-
-1. Clone le dépôt :  
-   ```bash
-   git clone https://github.com/amaurychartier/portfolioIS.git
-   cd portfolioIS
 
