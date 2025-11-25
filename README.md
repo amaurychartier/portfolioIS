@@ -11,7 +11,7 @@ Ce projet calcule la performance d'un portefeuille à partir d'un fichier CSV :
 
 ## Démo
 
-[Voir le graphique ROI interactif](https://amaurychartier.githubur
+[Voir le graphique ROI interactif](data/output/roi_per_asset.html)
 
 ---
 
@@ -21,6 +21,7 @@ Ce projet calcule la performance d'un portefeuille à partir d'un fichier CSV :
 git clone https://github.com/amaurychartier/portfolioIS.git
 cd portfolioIS
 pip install -r requirements.txt
+
 
 
 
