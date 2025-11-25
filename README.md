@@ -1,42 +1,29 @@
-# 📈 European Option Pricer — Black-Scholes  
-_Un projet académique & professionnel orienté finance quantitative_
+# PortfolioIS — Suivi de Portefeuille en Temps Réel
 
-Ce dépôt présente un **pricer d’options européennes** basé sur le modèle **Black-Scholes**, développé en Python.  
-L’objectif est de fournir un outil simple, clair et robuste pour illustrer mes compétences en :
-
-- Mathématiques financières  
-- Modélisation quantitative  
-- Implémentation Python  
-- Visualisation et analyse financière  
+Bienvenue dans **PortfolioIS**, un outil open-source que j’ai développé pour suivre et visualiser l’évolution de mes investissements en temps réel.
 
 ---
 
-# 🚀 Démo interactive (exécutable en 1 clic)
+## 🚀 Aperçu & Démo
 
-Vous pouvez lancer le script directement dans votre navigateur **sans rien installer** :
+Voici ce que fait PortfolioIS :
 
-👉 **[Lancer sur Binder](https://mybinder.org/v2/gh/amaurychartier/portfolioIS)**  
+- Import de vos positions via un fichier **CSV**  
+- Récupération des prix en temps réel via **Yahoo Finance**  
+- Conversion des devises en **CHF** automatiquement  
+- Visualisations interactives :  
+  - Allocation par secteur  
+  - ROI (Retour sur investissement) par actif  
 
-Binder ouvre un environnement Jupyter où vous pouvez :  
-✔️ modifier les paramètres  
-✔️ exécuter le pricing  
-✔️ visualiser les résultats  
+Si vous voulez tester le projet sans l’installer :
 
----
-
-# 🎥 Aperçu du projet
-
-*(Ajoute ici une image ou un GIF enregistré depuis ton écran — exemple pour toi)*  
-
-![demo](images/demo.gif)
-
-Si tu veux, je peux te générer un GIF automatiquement si tu m’envoies une capture.
+👉 **[Ouvrir une version interactive (Binder / Streamlit)](https://mybinder.org/v2/gh/amaurychartier/portfolioIS/HEAD)**  
 
 ---
 
-# 🧮 Fonctionnalités
+## 🧪 Installation & Utilisation Locale
 
-- Pricing analytique d’options européennes (call & put)
-- Formules Black-Scholes complètes
-- Gestion du taux sans risque, de la volatilité et du temps à maturité
-- Visualisations des variations du prix en foncti
+1. Clone le dépôt :  
+   ```bash
+   git clone https://github.com/amaurychartier/portfolioIS.git
+   cd portfolioIS
