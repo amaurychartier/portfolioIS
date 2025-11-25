@@ -1,0 +1,41 @@
+﻿Sector;Asset name;;Symbol;Bid;Unit cost;Currency ;Buy Date;Quantity
+Financial services;CITIGROUP INC. (XNYS:C);New York Stock Exchange;C;99,69;73,56;USD;45740;7
+Financial services;INTERACTIVE BROKERS GROUP, INC. (XNAS:IBKR);Nasdaq Stock Market;IBKR;62,43;21,115;USD;45034;20
+Financial services;HSBC HOLDINGS PLC (XNYS:HSBC);New York Stock Exchange;HSBC;68,95;30,18;USD;44910;7
+Financial services;Munich Reinsurance Company (XFRA:MUV2);Deutsche Boerse AG;MUV2;530;301;EUR;44910;1
+Financial services;Chubb Ltd (XNYS:CB);New York Stock Exchange;CB;295,81;208,73;USD;44706;2
+Financial services;S&P Global Inc. (XNYS:SPGI);New York Stock Exchange;SPGI;489,24;363,32;USD;44291;1
+Financial services;VISA INC. (XNYS:V);New York Stock Exchange;V;329,3;226,71;USD;44266;2
+Industrials ;MOURY CONSTRUCT SA (XBRU:MOUR);Euronext Brussels;MOUR;590;624;EUR;45627;1
+Industrials ;VINCI SA (XPAR:DG);Euronext Paris;DG;119,8;98,64;EUR;45628;5
+Industrials ;Vetropack Holding SA (XSWX:VETN);SIX Swiss Exchange;VETN;21,8;30,25;CHF;44855;12
+Healthcare;INTUITIVE SURGICAL, INC. (XNAS:ISRG);Nasdaq Stock Market;ISRG;568,48;540;USD;45965;1
+Healthcare;Novo Nordisk A/S (XNYS:NVO);New York Stock Exchange;NVO;44,97;108,29;USD;45643;4
+Healthcare;THE ENSIGN GROUP, INC. (XNAS:ENSG);Nasdaq Stock Market;ENSG;184,58;118,03;USD;45412;5
+Healthcare;UNITEDHEALTH GROUP INCORPORATED (XNYS:UNH);New York Stock Exchange;UNH;319,05;456,05;USD;45391;1
+Healthcare;Novartis Inc. (XSWX:NOVN);SIX Swiss Exchange;NOVN;103,98;83,1;CHF;45034;5
+Healthcare;BRISTOL-MYERS SQUIBB COMPANY (XNYS:BMY);New York Stock Exchange;BMY;47,76;51,41;USD;44504;4
+Healthcare;ABBVIE INC. (XNYS:ABBV);New York Stock Exchange;ABBV;229,51;103,78;USD;44160;4
+Basic materials and Energy;SHELL PLC (XLON:SHEL);London Stock Exchange;SHEL;2795,5;2448;GBp;45792;15
+Basic materials and Energy;NUCOR CORPORATION (XNYS:NUE);New York Stock Exchange;NUE;153,65;118,45;USD;45747;4
+Basic materials and Energy;CENTRUS ENERGY CORP. (XNYS:LEU);New York Stock Exchange;LEU;249,51;78;USD;45632;4
+Basic materials and Energy;VEUrandNuclearTechUCITSETFUSDA (XLON:NUCL);London Stock Exchange;NUCL;52,72;29,48;USD;45425;18
+Basic materials and Energy;BROOKFIELD RENEWABLE CORPORATION (XNYS:BEPC);New York Stock Exchange;BEPC;40,71;23,54;USD;45392;16
+Basic materials and Energy;CHENIERE ENERGY, INC. (XNYS:LNG);New York Stock Exchange;LNG;204,58;171,24;USD;45243;2
+Basic materials and Energy;Brazilian Petroleum Corporation - Petrobras (XNYS:PBR);New York Stock Exchange;PBR;12,75;10,48;USD;45048;30
+Basic materials and Energy;Eni SpA (XMIL:ENI);Borsa Italiana;ENI;15,834;14,3;EUR;44882;15
+Basic materials and Energy;Iberdrola SA (BMEX:IBE);Bolsas y Mercados Espanoles;IBE;18,02;9,14;EUR;44651;33
+Consumption and general public services;TRIGANO SA (XPAR:TRI);Euronext Paris;TRI;144,8;97,75;EUR;45769;5
+Consumption and general public services;DINO POLSKA S.A. (XFRA:5Y2);Deutsche Boerse AG;5Y2;10,325;75,7;EUR;45590;50
+Consumption and general public services;BOLLORE SE (XPAR:BOL);Euronext Paris;BOL;4,588;5,91;EUR;45583;90
+Consumption and general public services;ULTA BEAUTY, INC. (XNAS:ULTA);Nasdaq Stock Market;ULTA;514,59;404,46;USD;45412;1
+Consumption and general public services;Restaurant Brands International Inc. (XNYS:QSR);New York Stock Exchange;QSR;69,9;74,11;USD;45391;4
+Consumption and general public services;BRITISH AMERICAN TOBACCO P.L.C. (XNYS:BTI);New York Stock Exchange;BTI;54,77;28,79;USD;45272;9
+Consumption and general public services;THE PROCTER & GAMBLE COMPANY (XNYS:PG);New York Stock Exchange;PG;146,98;150,21;USD;45250;2
+Technologies and network equiment;NEXON Co., Ltd. (XFRA:7NX);Deutsche Boerse AG;7NX;19,8;15,5;EUR;45800;31
+Technologies and network equiment;CHECK POINT SOFTWARE TECHNOLOGIES LTD. (XNAS:CHKP);Nasdaq Stock Market;CHKP;183,55;215,82;USD;45764;3
+Technologies and network equiment;EVS BROADCAST EQUIPMENT SA (XBRU:EVS);Euronext Brussels;EVS;35,5;38,85;EUR;45734;12
+Technologies and network equiment;Sony Group Corporation (XNYS:SONY);New York Stock Exchange;SONY;29,01;16,43;USD;45399;15
+Technologies and network equiment;ALPHABET INC. (XNAS:GOOGL);Nasdaq Stock Market;GOOGL;318,58;108;USD;45055;2
+Technologies and network equiment;DONNELLEY FINANCIAL SOLUTIONS, INC. (XNYS:DFIN);New York Stock Exchange;DFIN;46,71;38,84;USD;44867;5
+Technologies and network equiment;Taiwan Semiconductor Manufacturing Co., Ltd. (XNYS:TSM);New York Stock Exchange;TSM;284,64;87,54;USD;45033;2

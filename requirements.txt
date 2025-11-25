@@ -1,0 +1,5 @@
+pandas
+yfinance
+forex-python
+plotly
+kaleido
